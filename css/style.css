@@ -19,3 +19,15 @@
     font-family: 'Crimson Text', serif;
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+.container {
+    width: 1024px;
+    margin: 0px auto 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}

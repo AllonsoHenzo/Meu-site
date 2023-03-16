@@ -1,4 +1,4 @@
-header {
+header section {
     width: 1024px;
     margin: 0px auto 30px;
     display: flex;
@@ -29,3 +29,4 @@ header nav ul li a {
     color: #fff;
     margin: 0 15px;
 }
+
