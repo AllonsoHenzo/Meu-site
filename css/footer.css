@@ -1,0 +1,28 @@
+footer{
+    margin: 0 0 -20px 10px;
+    animation: degrade 20s ease infinite;
+    background-size: 300% 300%;
+    background-image: linear-gradient(100deg, rgb(122, 0, 128), #8871ba, #8d75c0, #A084DC, #BFACE2, #EBC7E6, #BFACE2, #A084DC,  #8d75c0, rgb(122, 0, 128));
+}
+
+footer ul li{
+    margin: 10px 10px 0px 5px;
+}
+
+.logos{
+    width: 30px;
+}
+
+h3{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    margin-top: -27px;
+    margin-left: 35px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.container{
+    
+}

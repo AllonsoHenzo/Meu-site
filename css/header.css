@@ -9,13 +9,12 @@ header section {
 }
 
 #logopks {
-    width: 15%;
+    width: 10%;
 }
 
 header nav ul {
     display: flex;
     flex-direction: row;   
-    list-style: none;
     align-items: center;
     
 }
