@@ -1,11 +1,11 @@
 header {
     width: 1024px;
-    margin: 0 auto;
+    margin: 0px auto 30px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(81, 80, 80);
+    background-color: rgb(117, 11, 169);
 }
 
 #logopks {
@@ -16,10 +16,16 @@ header nav ul {
     display: flex;
     flex-direction: row;   
     list-style: none;
-
+    align-items: center;
+    
 }
 
 header nav ul li {
-    padding: 0 15px;
+    margin: 0 15px;
     text-transform: capitalize;
+}
+
+header nav ul li a {
+    color: #fff;
+    margin: 0 15px;
 }

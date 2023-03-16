@@ -1,4 +1,13 @@
+/* Font */
 @import url(./header.css);
+
+/* Componentes */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Roboto+Condensed:wght@300;700&display=swap');
+
+/* Btn */
+@import url(./buttons.css);
+
+/* Reset CSS */
 * {
     margin: 0;
     padding: 0;
@@ -6,4 +15,7 @@
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
+    text-decoration: none;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
