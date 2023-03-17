@@ -1,6 +1,7 @@
 .sobre-mim{
     align-items: center;
     justify-content: space-between;
+    
 }
 
 .sobre-mim article{
@@ -34,4 +35,5 @@
 main section figcaption img {
     width: 600px;
     height: 600px;
+    border-radius: 10px;
 }
